@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="67223" started-at="2019-02-16T18:01:54Z" finished-at="2019-02-16T18:03:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="67223" started-at="2019-02-16T18:01:54Z" finished-at="2019-02-16T18:03:01Z">
+      <class name="com.udemy.cicddemo.TestClass1">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.udemy.cicddemo.TestClass1@30b8a058]" name="launchDriver" is-config="true" duration-ms="30190" started-at="2019-02-16T18:01:54Z" finished-at="2019-02-16T18:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.udemy.cicddemo.TestClass1@30b8a058]" name="test1" duration-ms="3035" started-at="2019-02-16T18:02:24Z" finished-at="2019-02-16T18:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.udemy.cicddemo.TestClass1@30b8a058]" name="quit" is-config="true" duration-ms="2967" started-at="2019-02-16T18:02:27Z" finished-at="2019-02-16T18:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.udemy.cicddemo.TestClass1@30b8a058]" name="launchDriver" is-config="true" duration-ms="8047" started-at="2019-02-16T18:02:30Z" finished-at="2019-02-16T18:02:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.udemy.cicddemo.TestClass1@30b8a058]" name="test2" duration-ms="4779" started-at="2019-02-16T18:02:38Z" finished-at="2019-02-16T18:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.udemy.cicddemo.TestClass1@30b8a058]" name="quit" is-config="true" duration-ms="1312" started-at="2019-02-16T18:02:43Z" finished-at="2019-02-16T18:02:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.udemy.cicddemo.TestClass1@30b8a058]" name="launchDriver" is-config="true" duration-ms="8761" started-at="2019-02-16T18:02:44Z" finished-at="2019-02-16T18:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.udemy.cicddemo.TestClass1@30b8a058]" name="test3" duration-ms="6179" started-at="2019-02-16T18:02:53Z" finished-at="2019-02-16T18:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.udemy.cicddemo.TestClass1@30b8a058]" name="quit" is-config="true" duration-ms="1853" started-at="2019-02-16T18:02:59Z" finished-at="2019-02-16T18:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.udemy.cicddemo.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
