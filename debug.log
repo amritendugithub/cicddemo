@@ -1,0 +1,14 @@
+[0302/130420.081:ERROR:process_info.cc(359)] UncheckedAllocate
+[0302/130420.374:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0302/130420.374:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0302/130420.374:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0302/130420.374:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0302/130420.374:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0302/130420.374:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0302/130420.374:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0302/130420.374:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0302/130420.374:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0302/130420.374:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0302/130420.374:ERROR:exception_snapshot_win.cc(88)] thread ID 10260 not found in process
+[0302/131032.594:ERROR:process_info.cc(359)] UncheckedAllocate
+[0302/131032.618:ERROR:process_info.cc(359)] UncheckedAllocate
