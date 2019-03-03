@@ -46,7 +46,8 @@ public class TestClass1 {
     public void launchDriver() throws MalformedURLException
 	{
     
-    /*DesiredCapabilities dr = null;
+    	/*
+    DesiredCapabilities dr = null;
     
     dr = DesiredCapabilities.chrome();
     dr.setBrowserName("chrome");
@@ -56,6 +57,7 @@ public class TestClass1 {
 	
 	driver = new RemoteWebDriver(new URL("http://192.168.0.25:4444/wd/hub"), dr);
 	*/
+    	
     DesiredCapabilities caps = new DesiredCapabilities();
     caps.setCapability("browser", "Chrome");
     caps.setCapability("browser_version", "60.0");
@@ -65,10 +67,11 @@ public class TestClass1 {
     caps.setCapability("build", "Build 1.1");
     caps.setCapability("name", "BrowserTitleTest");
     caps.setCapability("resolution", "1024x768");
-
     driver = new RemoteWebDriver(new URL(URL), caps);
+
 	driver.manage().timeouts().implicitlyWait(90, TimeUnit.SECONDS);
 	//driver.manage().window().fullscreen();
+	
 	}
     
   
@@ -80,7 +83,7 @@ public class TestClass1 {
     
     @Test
     public void test2() {
-    	driver.navigate().to("https://www.amazon.com");
+    	driver.navigate().to("https://www.yahoo.com");
     	System.out.println("Test 2 Title is : "+driver.getTitle());	
     }
     
